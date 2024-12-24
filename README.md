@@ -40,4 +40,4 @@ Este proyecto es un sistema desarrollado en **PHP** con **MySQL** para gestionar
 ![alt text](evidencias/image-3.png)
 ![alt text](evidencias/image-4.png)
 ![alt text](evidencias/image-5.png)
-![alt text](image-6.png)
+![alt text](evidencias/image-6.png)
